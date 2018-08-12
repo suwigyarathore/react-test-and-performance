@@ -7,4 +7,4 @@ This repo shows various testing, type checking, debugging and performance monito
 ## Testing with jest
 
 * Configuring jest and performing basic test case
-
+* Testing string with matchers
