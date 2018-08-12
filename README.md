@@ -11,3 +11,4 @@ This repo shows various testing, type checking, debugging and performance monito
 * Testing arrays and objects with matchers
 * Doing snapshot testing
 * Organizing test in describes
+* Code Coverage Reports
