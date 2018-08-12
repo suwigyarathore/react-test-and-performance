@@ -10,3 +10,4 @@ This repo shows various testing, type checking, debugging and performance monito
 * Testing string with matchers
 * Testing arrays and objects with matchers
 * Doing snapshot testing
+* Organizing test in describes
