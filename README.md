@@ -8,3 +8,4 @@ This repo shows various testing, type checking, debugging and performance monito
 
 * Configuring jest and performing basic test case
 * Testing string with matchers
+* Testing arrays and objects with matchers
