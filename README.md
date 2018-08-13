@@ -12,3 +12,5 @@ This repo shows various testing, type checking, debugging and performance monito
 * Doing snapshot testing
 * Organizing test in describes
 * Code Coverage Reports
+
+![Screenshot](./coverage.png "Coverage")
