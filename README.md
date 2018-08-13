@@ -21,3 +21,7 @@ This repo shows various testing, type checking, debugging and performance monito
 * Adding type checking with flow
 
 ![Screenshot](./flow.png "Flow")
+
+## Monitoring performace with Chrome performance profiler
+
+![Screenshot](./chrome-profiler.png "Profiler")
