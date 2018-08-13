@@ -4,8 +4,14 @@ import './App.css';
 import Grid from './listings/Grid';
 import courses from '../data/courses.json';
 
-export default class App extends Component {
-  constructor (props) {
+type State = {
+  courses: Array<Object>
+};
+
+type Props = { /* ... */ };
+export default class App extends Component<Props, State> {
+
+  constructor (props: any) {
     super(props);
     this.state = { courses };
   }

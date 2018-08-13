@@ -14,3 +14,10 @@ This repo shows various testing, type checking, debugging and performance monito
 * Code Coverage Reports
 
 ![Screenshot](./coverage.png "Coverage")
+
+## Code quality imporovement with ESlint
+
+* Adding ESLint errors
+* Adding type checking with flow
+
+![Screenshot](./flow.png "Flow")
